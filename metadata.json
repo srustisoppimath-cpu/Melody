@@ -1,0 +1,7 @@
+{
+  "description": "An app to recommend Kannada songs based on mood, with an option to use the camera for a random suggestion.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "name": "Mood Melody"
+}
